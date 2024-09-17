@@ -1,3 +1,3 @@
 export const environment = {
-  wsSockets: 'https://server-socket-copy-production.up.railway.app',
+  wsSockets: 'https://server-socket-copia-production.up.railway.app',
 };
